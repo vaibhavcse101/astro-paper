@@ -30,7 +30,16 @@
   }
   body {
     @apply flex min-h-[100svh] flex-col bg-skin-fill font-mono text-skin-base 
-    selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
+      selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted relative;
+  }
+  body::before {
+    content: "";
+    @apply absolute inset-0 bg-black opacity-70;
+    background-image: url('/src/assets/images/miao_bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.5; /* Adjust this value to reduce/increase opacity */
+    z-index: -1; /* Ensures the overlay is behind the content */
   }
   section,
   footer {
@@ -38,7 +47,7 @@
   }
   a {
     @apply outline-2 outline-offset-1 outline-skin-fill 
-    focus-visible:no-underline focus-visible:outline-dashed;
+    focus-visible:no-underline focus-visible:outline-dashed text-white;
   }
   svg {
     @apply inline-block h-6 w-6 fill-skin-base group-hover:fill-skin-accent;
@@ -50,20 +59,20 @@
   }
   .prose {
     @apply prose-headings:!mb-3 prose-headings:!text-skin-base 
-    prose-h3:italic prose-p:!text-skin-base 
-    prose-a:!text-skin-base prose-a:!decoration-dashed prose-a:underline-offset-8
+    prose-h3:italic prose-p:!text-white 
+    prose-a:!text-white prose-a:!decoration-dashed prose-a:underline-offset-8
     hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent
     prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
     prose-figcaption:!text-skin-base prose-figcaption:opacity-70
-    prose-strong:!text-skin-base
+    prose-strong:!text-white
 
     
     prose-code:rounded prose-code:bg-skin-card 
     prose-code:bg-opacity-75 prose-code:p-1 
     prose-code:before:!content-none prose-code:after:!content-none
-    prose-ol:!text-skin-base 
-    prose-ul:overflow-x-clip prose-ul:!text-skin-base prose-li:marker:!text-skin-accent
-    prose-table:text-skin-base prose-th:border
+    prose-ol:!text-white 
+    prose-ul:overflow-x-clip prose-ul:!text-white prose-li:marker:!text-skin-accent
+    prose-table:text-white prose-th:border
     prose-th:border-skin-line prose-td:border 
     prose-td:border-skin-line prose-img:!my-2 
     prose-img:mx-auto prose-img:border-2 
@@ -81,10 +90,10 @@
     @apply mb-2;
   }
   .prose details {
-    @apply inline-block cursor-pointer select-none text-skin-base;
+    @apply inline-block cursor-pointer select-none text-white;
   }
   .prose summary {
-    @apply focus-outline;
+    @apply focus-outline text-white;
   }
   .prose h2#table-of-contents + p {
     @apply hidden;
@@ -122,6 +131,13 @@
 
   pre > code {
     white-space: pre;
+  }
+
+  /* Ensure all text in body is black */
+  body,
+  h1,
+  p {
+    color: black;
   }
 }
 
