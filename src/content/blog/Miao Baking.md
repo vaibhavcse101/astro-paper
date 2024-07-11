@@ -10,12 +10,6 @@ tags:
 description: "Making Chocolate Cheescake"
 ---
 
-<style> 
-body {
-background-image:url("/Users/vaibhavkumar/Documents/astro-paper/src/assets/images/Miao.png");
-}
-</style>
-
 My chocolate cheescake turned out to be great click on it.
 
 <iframe width="420" height="315"
