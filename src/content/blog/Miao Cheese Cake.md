@@ -7,7 +7,6 @@ featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - Baking
-  - Cake
 description: "Do you know how to say 'Cheesecake' in Chinese? Let's Find Out!"
 ---
 
