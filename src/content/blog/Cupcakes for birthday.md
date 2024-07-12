@@ -1,20 +1,20 @@
 ---
 author: Miao
-pubDatetime: 2024-07-11T17:32:42.719Z
-title: My First Birthday Cupcakes
-slug: astro-paper-v68
+pubDatetime: 2024-07-12T17:32:42.719Z
+title: A Beginner's Journey In Making The Cheesecake
+slug: astro-paper-v69
 featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - Baking
-description: "How to make creamy cupcakes and decorate them in more creative way?"
+  - Cake
+description: "Do you know how to say 'Cheesecake' in Chinese? Let's Find Out!"
 ---
 
-Since it is my first time to make these cupcakes for others' birthday, I was wondering how to make it more tasty and look better. So I started to put some eatable flowers to decorate them and it turns out great! Moreover, my friends love them not only because how it looks, but also because of the creamy tecture, which is about the timing when you stir the whipping cream.
-Please have a try when you make your own one. Get to know more details when you watch the video!
+Thanks to the almighty internet, I found a great cheesecake recipe. Although the process is quite complicated, it's worth a try. The taste of cheesecake is not that sweet, so if you like the flavor of cheese, you can choose this one to make. I really like the taste of cheese, how about you?
 
-Indulge in a Little Joy – Every Bite a Delight with Our Creamy Cupcakes!
+Savor the Creamy Dream – Pure Bliss in Every Slice of Our Cheesecakes!
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/_skXSpQhw6I">
+src="https://www.youtube.com/embed/OUWxj4ULT2A">
 </iframe>
