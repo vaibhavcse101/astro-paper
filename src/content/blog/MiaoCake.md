@@ -7,7 +7,7 @@ featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - Baking
-description: "Making Chocolate Cheescake"
+description: "Do you know how to say 'Cheesecake' in Chinese? Let's Find Out!"
 ---
 
 Thanks to the almighty internet, I found a great cheesecake recipe. Although the process is quite complicated, it's worth a try. The taste of cheesecake is not that sweet, so if you like the flavor of cheese, you can choose this one to make. I really like the taste of cheese, how about you?
