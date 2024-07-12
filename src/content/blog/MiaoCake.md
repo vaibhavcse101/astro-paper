@@ -1,7 +1,7 @@
 ---
 author: Miao
 pubDatetime: 2024-06-23T17:32:42.719Z
-title: Miao Baking
+title: A Beginner's Journey In Making The Cheesecake
 slug: astro-paper-v634
 featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
