@@ -7,7 +7,7 @@ featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - Baking
-description: "Making Chocolate Cheescake"
+description: "Making Chocolate Cheesecake"
 ---
 
 My chocolate cheescake turned out to be great click on it.
