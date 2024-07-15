@@ -2,7 +2,7 @@
 author: Miao
 pubDatetime: 2024-07-16T01:55:18.528Z
 title: A Beginner's Journey In Making The Cheesecake
-slug: astro-paper-v634
+slug: astro-paper-v69
 featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
