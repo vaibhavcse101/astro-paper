@@ -1,20 +1,16 @@
 ---
 author: Miao
 pubDatetime: 2024-07-15T20:27:52.759Z
-title: A Beginner's Journey In Making The Cheesecake
+title: New Baker Questionnaire
 slug: astro-paper-v69
 featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - Baking
   - Cake
-description: "Do you know how to say 'Cheesecake' in Chinese? Let's Find Out!"
+description: "The questionnaire will be very helpful for me to improve my skills. Thank you very much."
 ---
 
-Thanks to the almighty internet, I found a great cheesecake recipe. Although the process is quite complicated, it's worth a try. The taste of cheesecake is not that sweet, so if you like the flavor of cheese, you can choose this one to make. I really like the taste of cheese, how about you?
+Below is questionnaire
 
-Savor the Creamy Dream – Pure Bliss in Every Slice of Our Cheesecakes!
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/OUWxj4ULT2A">
-</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQ6BwShkJyIEltt49a7JOCmWLtADJ3M4tGEqTl-xJ7AjOAaA/viewform?embedded=true" width="640" height="1580" frameborder="0" marginheight="0" marginwidth="0">正在加载…</iframe>
